@@ -50,3 +50,24 @@ function limparCampo() {
     inputDoAmigo.value = ``;
 }
 
+function sortearAmigo() {
+    if (amigos.length < 2) {
+        alert(`São necessários pelo menos dois nomes de amigos para realizar o sorteio.`);
+        return;
+    }
+
+    limparListaAmigos()
+
+    let sorteio = Math.floor(Math.random() * amigos.length);
+    let resultado = amigos[sorteio];
+
+    exibirResultado(resultado);
+}
+
+function limparListaAmigos() {
+    let listaAmigos = document.getElementById(`listaAmigos`);
+    let listaSorteado = document.getElementById(`resultado`);
+    
+    listaAmigos.innerHTML = ``;
+    listaSorteado.innerHTML = ``;
+}
