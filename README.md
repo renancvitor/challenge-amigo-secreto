@@ -23,4 +23,12 @@ Neste projeto, as seguintes tecnologias foram utilizadas:
 
 ---
 
+<h2 align="center">🛠️ Ferramenta Utilizada</h2>
+
+O código foi desenvolvido utilizando a seguinte ferramenta:
+
+- **💻 Visual Studio Code**: Utilizado para escrever e editar o código JavaScript, HTML e CSS do projeto.
+
+---
+
 <h4 align="center"> > :tada: Projeto finalizado com sucesso! :tada: </h4>
