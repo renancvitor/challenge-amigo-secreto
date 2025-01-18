@@ -13,4 +13,14 @@ Este é um projeto de **Jogo de Amigo Secreto**. A aplicação permite que os us
 
 ---
 
-<h3 align="center"> > :tada: Projeto finalizado com sucesso! :tada: </h3>
+<h2 align="center">💻 Tecnologias Utilizadas</h2>
+
+Neste projeto, as seguintes tecnologias foram utilizadas:
+
+- **🌐 HTML & CSS** (O HTML e o CSS foram criados e fornecidos pela equipe da **Alura** - estou utilizandos como **template** para a estrutura e o estilo da aplicação.)
+  
+- **🖥️ JavaScript**
+
+---
+
+<h4 align="center"> > :tada: Projeto finalizado com sucesso! :tada: </h4>
