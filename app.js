@@ -36,3 +36,17 @@ function adicionarAmigo() {
     limparCampo();
 }
 
+function exibirResultado(amigoSecretoSorteado) {
+    let listaSorteado = document.getElementById(`resultado`);
+    listaSorteado.innerHTML = ``;
+
+    let li = document.createElement(`li`);
+    li.textContent = `${amigoSecretoSorteado} foi o amigo secreto sorteado!.`;
+    listaSorteado.appendChild(li);
+}
+
+function limparCampo() {
+    inputDoAmigo = document.querySelector(`input`);
+    inputDoAmigo.value = ``;
+}
+
