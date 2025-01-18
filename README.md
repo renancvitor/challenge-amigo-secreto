@@ -13,4 +13,4 @@ Este é um projeto de **Jogo de Amigo Secreto**. A aplicação permite que os us
 
 ---
 
-<h1 align="center"> > :tada: Projeto finalizado com sucesso! :tada: </h1>
+<h3 align="center"> > :tada: Projeto finalizado com sucesso! :tada: </h3>
