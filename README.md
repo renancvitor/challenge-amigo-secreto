@@ -1,2 +1,2 @@
 
-![Imagem com fundo azul escrito em branco Jogo do amigo secreto em branco - criado pela IA deepai](https://github.com/user-attachments/assets/05f4d00d-e9fc-45a6-950a-2f51a418a2d3)
+<h1 align="center"> ![Imagem com fundo branco com a frase "Meu amigo secreto" e uma embalagem de presento dentro de um balão de fala](https://github.com/user-attachments/assets/1d827541-be10-4209-9741-4be6d14da3c1) </h1>
