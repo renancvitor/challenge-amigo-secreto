@@ -1,6 +1,16 @@
 
 <h1 align="center"> # 🎉 Jogo de Amigo Secreto 🎁 </h1>
 
+---
+
+<h2 align="center">🌍 Acesse o Projeto</h2>
+
+Você pode acessar o projeto diretamente através do seguinte link:
+
+- [Acessar o Jogo de Amigo Secreto](https://challenge-jogo-amigo-secreto.vercel.app/)
+
+---
+
 <h2 align="center">🎮 Funcionalidade do Projeto</h2>
 
 Este é um projeto de **Jogo de Amigo Secreto**. A aplicação permite que os usuários adicionem seus amigos que são exibidos num lista e realizem o sorteio do amigo secreto de forma simples, prática e divertida.
