@@ -5,17 +5,34 @@ function exibeTextoTela(tag, texto) {
     campo.innerHTML = texto;
 }
 
-function exibirMsgInicial() {
-    exibeTextoTela('h1', `Jogo do amigo secreto!!`);
-    listaAmigos(`ul`, amigos.push);
-}
+function exibirListaAmigos() {
+    let listaAmigos = document.getElementById(`listaAmigos`);
 
-exibirMsgInicial();
+    listaAmigos.innerHTML = ``;
+
+    amigos.forEach(amigo => {
+        let item = document.createElement(`li`);
+        item.textContent = amigo;
+        listaAmigos.appendChild(item);
+    })
+}
 
 function adicionarAmigo() {
-    let adicionar = document.querySelector(`input`).value;
+    let inputDoAmigo = document.getElementById(`amigo`);
+    let nome = inputDoAmigo.value.trim();
+
+    if (nome=== "") {
+        alert(`Por favor, insira um nome válido.`);
+        return;
+    }
+
+    if (amigos.includes(nome)) {
+        alert(`Este nome já foi adicionado.`);
+        return;
+    }
+
+    amigos.push(nome);
+    exibirListaAmigos();
+    limparCampo();
 }
 
-function verificarNome() {
-
-}
