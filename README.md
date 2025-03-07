@@ -1,5 +1,5 @@
 
-<h1 align="center"> # 🎉 Jogo de Amigo Secreto 🎁 </h1>
+<h1 align="center"> # 🎉 Jogo de Amigo Secreto 🎁 <br> <img src="https://img.shields.io/badge/Status-Concluído-green"></h1>
 
 ---
 
@@ -38,6 +38,25 @@ Neste projeto, as seguintes tecnologias foram utilizadas:
 O código foi desenvolvido utilizando a seguinte ferramenta:
 
 - **💻 Visual Studio Code**: Utilizado para escrever e editar o código JavaScript, HTML e CSS do projeto.
+
+---
+
+<h2 align="center">🤝 Contribuições</h2>
+
+Se você quiser contribuir para o projeto, siga estas etapas:
+
+1. Faça um fork deste repositório.
+2. Crie uma nova branch (`git checkout -b feature/alguma-coisa`).
+3. Faça suas mudanças.
+4. Envie um pull request explicando as mudanças realizadas.
+
+Obrigado pelo interesse em contribuir!
+
+---
+
+<h2 align="center">📄 Licença</h2>
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE), permitindo sua utilização, modificação e distribuição de forma livre, conforme os termos descritos.
 
 ---
 
