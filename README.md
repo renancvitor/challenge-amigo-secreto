@@ -1,5 +1,5 @@
 
-<h1 align="center"> # 🎉 Jogo de Amigo Secreto 🎁 <br> <img src="https://img.shields.io/badge/Status-Concluído-green"></h1>
+<h1 align="center"> # 🎉 Jogo de Amigo Secreto 🎁 <br> <img src="https://img.shields.io/badge/Status-Concluído-green"></h1> 
 
 ---
 
